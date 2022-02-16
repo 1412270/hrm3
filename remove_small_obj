@@ -1,4 +1,5 @@
-img = cv2.bitwise_not(img)
+def remove_small_obj(img):
+    img = cv2.bitwise_not(img)
     nb_components, output, stats, centroids = cv2.connectedComponentsWithStats(img, connectivity=8)
     # connectedComponentswithStats yields every seperated component with information on each of them, such as size
     # the following part is just taking out the background which is also considered a component, but most of the time
