@@ -67,7 +67,7 @@ def read_card(img_path):
 
     img = cv2.resize(img, (1100, 750))
     
-        if identity_code is None:
+    if identity_code is None:
         code_area = img[190:270, 520:970]
         code_area = cv2.resize(code_area, (450, 80))
 
@@ -81,3 +81,4 @@ def read_card(img_path):
         name_area = cv2.resize(name_area, (610, 90))
         full_name = pytesseract.image_to_string(name_area, lang='vie')
         cv2.imwrite('idcard_extract_app/static/img/name_area.png', name_area)
+       
