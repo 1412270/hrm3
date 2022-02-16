@@ -66,3 +66,18 @@ def read_card(img_path):
         data_to_string('idcard_extract_app/static/img/idcard.png')
 
     img = cv2.resize(img, (1100, 750))
+    
+        if identity_code is None:
+        code_area = img[190:270, 520:970]
+        code_area = cv2.resize(code_area, (450, 80))
+
+        # code_area = cv2.morphologyEx(code_area, cv2.MORPH_OPEN, kernel)
+        identity_code = pytesseract.image_to_string(code_area, lang='eng',
+                                                    config='-c tessedit_char_whitelist=0123456789 --psm 7')
+        cv2.imwrite('idcard_extract_app/static/img/code_area.png', code_area)
+
+    if full_name == '' or full_name is None:
+        name_area = img[260:350, 440:1050]
+        name_area = cv2.resize(name_area, (610, 90))
+        full_name = pytesseract.image_to_string(name_area, lang='vie')
+        cv2.imwrite('idcard_extract_app/static/img/name_area.png', name_area)
