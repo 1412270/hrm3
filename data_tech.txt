@@ -1,0 +1,83 @@
+java
+mysql
+oracle
+sql_server
+sql
+server
+sap
+html
+css
+html5
+angular
+sap anywhere
+css3
+html/css
+jsp/servlet
+jspservlet
+bootstrap
+python
+javascript
+javascript/jquery
+ruby
+c#
+c# winform
+git
+c++
+ui/ux
+json/xml
+c/c++
+c
+kotlin
+php
+linux
+vba
+linq
+winform
+devexpress
+github
+crystal
+photoshop
+javascript
+javascrip
+Bootstrap & JQuery
+react
+js
+node
+mvc
+yii2_framework
+mssql_server
+eclipse
+netbean
+aspnet
+net
+adonet
+vbnet
+android
+xampp
+laravel
+spring_framework
+boostrap
+ai
+HTML-CSS-BOOTSTRAP
+oop
+jquery
+vuejs
+reactjs
+tensorflow
+keras
+django
+machine learning
+deep learning
+ios
+sublime text
+notepad++
+designner-front end
+ios developer
+front-end developer
+ruby programming
+embedded
+svn
+.net
+wordpress
+wpf
+mobile application
