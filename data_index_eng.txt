@@ -1,0 +1,58 @@
+profile
+education
+educational qualification
+<<<<<<< HEAD
+=======
+educational background
+>>>>>>> develop
+study experience
+projects
+course projects
+technical skills
+background
+skills
+skill
+soft skill
+knowledge
+>>>>>>> develop
+work experience
+working experinece
+work experiences
+professional experience
+practical experience
+experience
+summary
+objectives
+objective
+interests
+interest
+hoppies
+personal attributes
+personal details
+about me
+profile
+languages
+activities
+activitie
+<<<<<<< HEAD
+=======
+activity
+>>>>>>> develop
+certifications
+certificate
+project assignments
+personal
+job objective
+contact information
+additional information
+soft skills
+reference
+references
+carrier objectives
+background information
+hobby
+hobbies
+involved project
+besides
+contact
+certificates/achievements
