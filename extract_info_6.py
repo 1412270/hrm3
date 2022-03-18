@@ -1,0 +1,21 @@
+must_have_words_2 = ["Nguyen", "Tran", "Le", "Pham", "Hoang", "Huynh", "Phan", "Vu", "Vo", "Đang", "Bui", "Đo",
+                         "Ho", "Ngo", "Duong", "Ly", "An", "Anh", "Ao", "Âu", "Ba", "Bac", "Bach", "Ban", "Bang",
+                         "Banh", "Bao", "Be", "Bi", "Bien", "Binh", "Bo", "Chrieng", "Ca", "Cai", "Cam", "Canh", "Cao",
+                         "Cap", "Cat", "Cam", "Can", "Che", "Chiem", "Chu", "Chau", "Chung", "Chung", "Chuong", "Chu",
+                         "Co", "Cong", "Cung", "Cu", "Da", "Danh", "Diem", "Diep", "Doan", "Du", "Dai", "Dieu", "Dan",
+                         "Dam", "Dao", "Dau", "Deo", "Dien", "Dinh", "Diêu", "Doan", "Don", "Dong", "Do", "Dong",
+                         "Dong", "Đoi", "Duong", "Duc", "Dang", "Gia", "Giao", "Giang",  "Giap", "H'", "H'ma", "H'nia",
+                         "Hau", "Ha", "Han", "He", "Hi", "Hinh", "Hoa", "Hong", "Hoang", "Hung", "Hua", "Huong", "Kong",
+                         "Kieu", "Kha", "Khuong", "Khau", "Khieu", "Khoa", "Khong", "Khu", "Khuat", "Khuc", "Kim",
+                         "Lyly", "La", "Lanh", "Lac", "Lai", "Lang", "Lam", "Leng", "Leu", "Lieu", "Lo", "Luyen", "Luc",
+                         "Lu", "Luong", "Luu", "Ly", "Mua", "Ma", "Mai", "Mang", "Mach", "Manh", "Mau", "Man", "Moc",
+                         "Muc", "Nhan", "Ninh", "Nham", "Ngan", "Nghiem", "Nghi", "Ngo", "Ngoc", "Nguy", "Nhu", "Nong",
+                         "Ong", "Phi", "Pho", "Phu", "Phung", "Phuong", "Quan", "Quang", "Quach", "Sam", "Son", "Su",
+                         "Sung", "Tan", "Tao", "Ta", "Tang", "Thang", "Thai", "Thanh", "Thao", "Thach", "Than", "Tham",
+                         "Thap", "The", "Thi", "Thieu", "Thinh", "Thoa", "Thoi", "Thuc", "Ty", "Tieu", "Tiep", "Tinh",
+                         "Tong", "To", "Ton", "Tong", "Trang", "Trac", "Tra", "Tri", "Trieu", "Trinh", "Trung",
+                         "Truong", "Tu", "Uong", "Ung", "Van", "Vi", "Viem", "Vien", "Vuong", "Vuu", "Xung", "Xa",
+                         "Yen", "Chieu"]
+
+    stop_word = ["đại học", "cao đẳng", "thành phố", "tỉnh", "huyện", "hồ sơ", "học viện", "hồ chí minh", "hcm", "tp",
+                 "tham gia", "sinh viên", "học vấn", "công ty", "cty"]
