@@ -1,0 +1,15 @@
+bank_list = ["ngoại thương việt nam", "vietcombank", "vcb", "đầu tư và phát triển", "bidv", "chính sách xã hội",
+             "vbsp", "công thương", "vietinbank", "nông nghiệp và phát triển nông thông", "agribank",
+             "phát triển nhà đbscl", "mhb", "phát triển việt nam", "vdb", "bản việt", "đại a", "phát triển mekong",
+             "quốc dân", "việt á", "việt nam thương tín", "xây dựng vn", "bảo việt", "tiên phong", "bưu điện liên việt",
+             "á châu", "acb", "an bình", "abbank", "bắc á", "bac a bank", "đại dương", "oceanbank", "dầu khí toàn cầu",
+             "gpbank", "đông á", "đông nam á", "seabank", "hàng hải", "marinetime bank", "kiên long", "kỹ thương",
+             "techcombank", "nam á", "phát triển tp hcm", "hd bank", "phương đông", "ocb", "phương nam",
+             "southern bank", "quân đội", "mb", "quốc tế", "vib", "sài gòn", "scb", "sài gòn - hà nội", "shb",
+             "sài gòn thương tín", "sacombank", "sg công thương", "saigonbank", "việt hóa", "viet hoa js bank",
+             "vn thịnh vượng", "vp bank", "xăng dầu petrolimex", "pgbank", "xuất nhập khẩu", "eximbank"]
+
+location_list = ["quận 1", "quận 2", "quận 3", "quận 4", "quận 5", "quận 6", "quận 7", "quận 8", "quận 9", "quận 10",
+                 "tân bình", "gò vấp", "bình tân", "thủ đức", "củ chi", "bình chánh"]
+
+location_2_list = ["bình định", "phú yên", "tiền giang", "bến tre", "cái bè"]
